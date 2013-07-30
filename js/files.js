@@ -1,0 +1,1 @@
+window.FILES = ["FriendsTab_0008_Friends-Tab.png","FriendsTab_0009_Tab-and-Pivots.png"];
